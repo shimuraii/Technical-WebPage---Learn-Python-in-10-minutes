@@ -1,0 +1,59 @@
+
+<nav id="navbar">
+    <header>Learn Python in 10 minutes</header>
+    <ul>
+      <li><a href="#Hello_World!" class="nav-link">Hello World!</a><br></li>
+      <li> <a href="#Numbers_Python" class="nav-link">Numbers Python</a><br></li>
+      <li> <a href="#Strings_Python" class="nav-link">Strings Python</a><br></li>
+      <li><a href="#Iteration_Python" class="nav-link">Iteration Python</a><br></li>
+      <li><a href="#While_Loops" class="nav-link">While Loops</a><br></li>   
+        </ul>
+  </nav>
+<main id="main-doc">
+  <h1> Learn the Basics of python in 10 minutes!</h1>
+    <header>Learn Python in 10 minutes</header>
+  <section class="main-section" id="Hello_World!">
+    <header>Hello World!</header>
+    <h2> Table of contents:
+    <br>
+    <li> Hello World</li>
+    <li> Numbers Python</li>
+    <li> Strings Python</li>
+    <li>Iteration Python</li>
+    <li>While loops</li></h2>
+    <p>Welcome to python 10minutes! First, let's start with the basics! The print function is a function that returns a certain character i.e <code> print("Hello, World")</code> the return would be <code> Hello, World </code>. Try one your self, print the word "Pokemon".</p>
+      <br>
+    <p> Oh! did you do it? The answer for the question was: <code>print("Pokemon")</code>!</p>
+  </section>
+  <section class="main-section" id="Numbers_Python">
+    <header>Numbers Python</header>
+    <p>Numbers and operations are pretty simple. You can do division /, addition +, subtraction - and multiplication *, but only 1 at a time. i.e. <code> 1+1</code> would give me <code> 2</code>. How would you get 10 with subtraction?</p>
+    <p> Wow! There are so many solutions. Our team have <code> 1000-900</code> for a solution.
+  </section>
+  <section class="main-section" id="Strings_Python">
+    <header>Strings Python</header>
+    Strings are not as mutable as Numbers, though you can use them in a list, tuple. You can use strings to associate with numbers or things. i.e <code> a = "banana"</code>
+    Try getting a variable d with a name of "doka"
+    </p>
+  <p> Hard? no! the answer was: <code> d = "doka" </code></p>
+  </section>
+  <section class="main-section" id="Iteration_Python">
+    <header>Iteration Python</header>
+    <p>When dealing with a range of numbers we can either use While loops or iterations with <code>for</code>.</p>
+    <p> Example of a for loop would be:
+      <code> a = 10<br>
+             for a in x:<br>
+                print(a)
+      </code></p>
+  </section>
+  <section class="main-section" id="While_Loops">
+    <header>While Loops</header>
+    <p> on the other hand, while is only continues if it satisfy a certain condition!<p>
+    <p> An example would be:
+      <code> a = 10<br>
+             x = 0<br>
+        while a != x:<br>
+          print(a)<br>
+          a -= 10
+  </section>
+</main>
